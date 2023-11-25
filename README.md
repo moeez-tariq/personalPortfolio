@@ -2,6 +2,8 @@
 
 Welcome to my personal portfolio website, designed as a centralized hub to showcase my skills, experiences, and creative projects. The primary goal behind creating this website was to establish a comprehensive and visually engaging platform where visitors can gain insights into my professional journey, explore my technical proficiency, and delve into the diverse range of projects that I have undertaken.
 
+## [Live Website](https://moeez-tariq.github.io/personalPortfolio/)
+
 ## Purpose
 
 1. **Showcasing Projects:** The website serves as a gallery for presenting my personal projects, providing detailed descriptions and direct links for visitors to explore each project in-depth.
